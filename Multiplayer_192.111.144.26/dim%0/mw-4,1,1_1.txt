@@ -1,0 +1,11 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:dark forest:D:-868:77:-3755:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:BIG cave:B:-864:-20:45:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:mineshaft:M:-866:-49:-21:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:hole:H:-248:75:-3:15:false:0:gui.xaero_default:false:0:0:false
+waypoint:SuperDeep:S:-484:-43:113:15:false:0:gui.xaero_default:false:0:0:false
+waypoint:DeepEntrance:D:-425:-7:112:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Grand Staircase:G:-461:24:123:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:BASE:B:-430:66:151:10:false:0:gui.xaero_default:false:0:0:false
